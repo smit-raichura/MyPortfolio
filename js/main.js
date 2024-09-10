@@ -882,7 +882,7 @@ const projectData = [
     title: "Venue Finder",
     // subTitle:
     //   "You can easily generate secure and random passwords using this simple tool.",
-    thumbnail: "img/venue-finder.jpg",
+    thumbnail: "../img/venue-finder.jpg",
     description:
       "Developed an interactive event management platform using ReactJS and Django, integrating chat with Kommunicate API and payment processing via Stripe for enhanced user experience and reliability.",
     techStack: ["Django", "ReactJS", "PostgreSQL"],
