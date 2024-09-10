@@ -882,7 +882,7 @@ const projectData = [
     title: "Venue Finder",
     // subTitle:
     //   "You can easily generate secure and random passwords using this simple tool.",
-    thumbnail: "img/projects-default.jpg",
+    thumbnail: "img/venue-finder.jpg",
     description:
       "Developed an interactive event management platform using ReactJS and Django, integrating chat with Kommunicate API and payment processing via Stripe for enhanced user experience and reliability.",
     techStack: ["Django", "ReactJS", "PostgreSQL"],
@@ -891,7 +891,7 @@ const projectData = [
   {
     title: "Gadgetry",
     // subTitle: "Here you have full control over your links.",
-    thumbnail: "../img/thumbnails/cutlink-thumbnail.png",
+    thumbnail: "img/gadetery.jpeg",
     description:
       "Created a product review web app with ReactJS, Django, and MongoDB, implementing web scraping through Scrapper API and deploying a scalable solution across Netlify and Heroku for seamless performance.",
     techStack: ["ReactJS", "Django", "MongoDB", "Heroku", "Netlify"],
@@ -901,7 +901,7 @@ const projectData = [
     title: "TalkSpace",
     // subTitle:
     //   "Unlock the power of your mind with our AI-Driven mental health web application",
-    thumbnail: "../img/thumbnails/mindmate-thumbnail.png",
+    thumbnail: "img/talk-space.jpg",
     description:
       "Developed and deployed a full stack chat application with messaging, multimedia features, and WebRTC video calls using ReactJS, ExpressJS, MongoDB, and WebSockets, integrating secure authentication with Clerk and robust member management functionality.",
     techStack: ["ReactJS", "ExpressJS","MongoDB", "WebSocket"],
@@ -910,7 +910,7 @@ const projectData = [
   {
     title: "Beatbox Brain",
     // subTitle: "Gain insights and strengthen your GitHub connections",
-    thumbnail: "../img/thumbnails/gittrack-thumbnail.png",
+    thumbnail: "img/beatbox-brain.webp",
     description:
       "Developed a music genre classification model using CNN and RNN architectures, improving accuracy from 46% to 90% by analyzing beatbox sounds with Librosa, OpenCV, and MFCC features.",
     techStack: ["Librosa","OpenCV", "sklearn"],
@@ -920,7 +920,7 @@ const projectData = [
     title: "EduFace",
     // subTitle:
     //   "Simple website that display the battery status of your device and the charging status.",
-    thumbnail: "../img/thumbnails/my-battery-thumbnail.png",
+    thumbnail: "img/eduface.jpeg",
     description:
       "Built an automated facial recognition-based attendance system for 50+ students using Django, OpenCV, and MySQL, improving accuracy by 30% and reducing administrative workloads by 18%.",
     techStack: ["Django", "OpenCV", "MySQL"],
@@ -929,7 +929,7 @@ const projectData = [
   {
     title: "Crimson Commando ",
     // subTitle: "Web based terminal emulator",
-    thumbnail: "../img/thumbnails/sys-info-thumbnail.png",
+    thumbnail: "img/crimson-commando.jpeg",
     description:
       "Designed a third-person shooter game in Unity with custom level design, AI-driven enemy behaviors, and smooth character animations using C# and state machines for responsive gameplay.",
     techStack: ["Unity", "C#"],
@@ -939,7 +939,7 @@ const projectData = [
     title: "Vocalize",
     // subTitle:
       // "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima nobis quia et.",
-    thumbnail: "../img/projects-default.jpg",
+    thumbnail: "img/vocalize.png",
     description:
       "Developed a video-to-audio conversion microservice architecture using Flask, RabbitMQ, MongoDB, and MySQL, handling 1,000+ conversions per hour with 95% uptime through Docker and Kubernetes deployment.",
     techStack: ["Flask", "RabbitMQ", "MySQL", "MongoDB", "Docker", "Kubernetes"],
