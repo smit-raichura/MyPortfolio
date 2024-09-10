@@ -881,7 +881,7 @@ const projectData = [
   {
     title: "Venue Finder",
     
-    thumbnail: "../img/venue-finder.jpg",
+    thumbnail: "img/venue-finder.jpg",
     description:
       "Developed an interactive event management platform using ReactJS and Django, integrating chat with Kommunicate API and payment processing via Stripe for enhanced user experience and reliability.",
     techStack: ["Django", "ReactJS", "PostgreSQL"],
@@ -890,7 +890,7 @@ const projectData = [
   {
     title: "Gadgetry",
     
-    thumbnail: "/img/gadetery.jpeg",
+    thumbnail: "img/gadetery.jpeg",
     description:
       "Created a product review web app with ReactJS, Django, and MongoDB, implementing web scraping through Scrapper API and deploying a scalable solution across Netlify and Heroku for seamless performance.",
     techStack: ["ReactJS", "Django", "MongoDB", "Heroku", "Netlify"],
@@ -899,7 +899,7 @@ const projectData = [
   {
     title: "TalkSpace",
     
-    thumbnail: "./img/talk-space.jpg",
+    thumbnail: "img/talk-space.jpg",
     description:
       "Developed and deployed a full stack chat application with messaging, multimedia features, and WebRTC video calls using ReactJS, ExpressJS, MongoDB, and WebSockets, integrating secure authentication with Clerk and robust member management functionality.",
     techStack: ["ReactJS", "ExpressJS","MongoDB", "WebSocket"],
